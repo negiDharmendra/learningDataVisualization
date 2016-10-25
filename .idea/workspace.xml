@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db90dfd0-253e-464d-a40e-0e401864e7ba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/populationVisualization.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/extractData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/growth.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mergeData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Afghanistan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Albania" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Algeria" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/AmericanSamoa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Andorra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Angola" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Antiguaand Barbuda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/ArabWorld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Argentina" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Armenia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Aruba" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Australia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Austria" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Azerbaijan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bahamas,The" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bahrain" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bangladesh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Barbados" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Belarus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Belgium" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Belize" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Benin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bermuda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bhutan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bolivia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bosniaand Herzegovina" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Botswana" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Brazil" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/BruneiDarussalam" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Bulgaria" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/BurkinaFaso" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Burundi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/CaboVerde" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Cambodia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Cameroon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Canada" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Caribbeansmall states" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/CaymanIslands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/CentralAfrican Republic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Chad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/ChannelIslands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Chile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/China" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Colombia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Comoros" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Congo,Dem. Rep." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Congo,Rep." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/CostaRica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Coted'Ivoire" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Croatia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Cuba" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Curacao" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Cyprus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/CzechRepublic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Denmark" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Djibouti" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Dominica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/DominicanRepublic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/EastAsia &amp; Pacific" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/EastAsia &amp; Pacific (excluding high income)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Ecuador" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Egypt,Arab Rep." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/ElSalvador" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/EquatorialGuinea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Eritrea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Estonia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Ethiopia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Euroarea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Europe&amp; Central Asia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Europe&amp; Central Asia (excluding high income)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/EuropeanUnion" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/FaroeIslands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Fiji" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Finland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/France" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/FrenchPolynesia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Gabon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Gambia,The" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Georgia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Germany" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Ghana" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Greece" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Greenland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Grenada" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Guam" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Guatemala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Guinea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Guinea-Bissau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Guyana" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Haiti" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Heavilyindebted poor countries (HIPC)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Highincome" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Honduras" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/HongKong SAR, China" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Hungary" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Iceland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/India" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Indonesia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Iran,Islamic Rep." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Iraq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Ireland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Isleof Man" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Israel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Italy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Jamaica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Japan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Jordan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Kazakhstan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Kenya" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Kiribati" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Korea,Dem. People’s Rep." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Korea,Rep." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Kosovo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Kuwait" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/KyrgyzRepublic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/LaoPDR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/LatinAmerica &amp; Caribbean" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/LatinAmerica &amp; Caribbean (excluding high income)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Latvia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Leastdeveloped countries: UN classification" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Lebanon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Lesotho" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Liberia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Libya" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Liechtenstein" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Lithuania" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Low&amp; middle income" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Lowermiddle income" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Lowincome" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Luxembourg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/MacaoSAR, China" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Macedonia,FYR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Madagascar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Malawi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Malaysia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Maldives" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Mali" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Malta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/MarshallIslands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Mauritania" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Mauritius" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Mexico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Micronesia,Fed. Sts." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/MiddleEast &amp; North Africa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/MiddleEast &amp; North Africa (excluding high income)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Middleincome" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Moldova" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Monaco" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Mongolia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Montenegro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Morocco" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Mozambique" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Myanmar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Namibia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Nepal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Netherlands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/NewCaledonia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/NewZealand" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Nicaragua" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Niger" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Nigeria" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/NorthAmerica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/NorthernMariana Islands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Norway" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Notclassified" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/OECDmembers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Oman" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Othersmall states" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Pacificisland small states" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Pakistan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Palau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Panama" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/PapuaNew Guinea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Paraguay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Peru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Philippines" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Poland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Portugal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/PuertoRico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Qatar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Romania" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/RussianFederation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Rwanda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Samoa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SanMarino" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SaoTome and Principe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SaudiArabia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Senegal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Serbia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Seychelles" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SierraLeone" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Singapore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SintMaarten (Dutch part)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SlovakRepublic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Slovenia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Smallstates" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SolomonIslands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Somalia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SouthAfrica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SouthAsia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SouthSudan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Spain" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SriLanka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/St.Kitts and Nevis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/St.Lucia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/St.Martin (French part)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/St.Vincent and the Grenadines" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Sub-SaharanAfrica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Sub-SaharanAfrica (excluding high income)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Sudan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Suriname" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Swaziland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Sweden" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Switzerland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/SyrianArab Republic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Tajikistan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Tanzania" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Thailand" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Timor-Leste" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Togo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Tonga" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Trinidadand Tobago" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Tunisia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Turkey" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Turkmenistan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Turksand Caicos Islands" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Tuvalu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Uganda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Ukraine" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/UnitedArab Emirates" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/UnitedKingdom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/UnitedStates" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Uppermiddle income" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Uruguay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Uzbekistan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Vanuatu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Venezuela,RB" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Vietnam" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/VirginIslands (U.S.)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/WestBank and Gaza" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/World" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Yemen,Rep." afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Zambia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/Zimbabwe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/data.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newGrowth/percentage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/separateFile.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code.js" afterPath="$PROJECT_DIR$/util/code.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/files.txt" afterPath="$PROJECT_DIR$/countryNames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="worldStatistic.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="worldStatistic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="code.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/code.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tonga.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Tonga.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="populationVisualization.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/populationVisualization.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Afghanistan.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Afghanistan.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/appsec/campr-csrf-workshop" value="1468049568000" />
+        <entry key="$USER_HOME$/crunch_example/wordCount/out/prep-buddy" value="2925602622000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/data.csv" />
+        <option value="$PROJECT_DIR$/util/code.js" />
+        <option value="$PROJECT_DIR$/util/populationVisualization.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldStatistic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$USER_HOME$/data" />
+      <recent name="$PROJECT_DIR$/util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="worldStatistic" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db90dfd0-253e-464d-a40e-0e401864e7ba" name="Default" comment="" />
+      <created>1477374588485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477374588485</updated>
+      <workItem from="1477374589827" duration="2203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2203000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="835" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/util/separateFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/mergeData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/extractData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="4860" column="62" selection-start-line="4860" selection-start-column="62" selection-end-line="4860" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countryNames.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Afghanistan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Afghanistan.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Tonga.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/populationVisualization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javax.annotation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>worldStatistic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

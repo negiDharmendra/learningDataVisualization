@@ -4,8 +4,9 @@
   "description": "",
   "main": "parse.js",
   "dependencies": {
-    "papaparse": "^4.1.2",
-    "lodash": "^4.16.3"
+    "express": "^4.14.0",
+    "lodash": "^4.16.3",
+    "papaparse": "^4.1.2"
   },
   "devDependencies": {},
   "scripts": {
